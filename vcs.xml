@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/camelinaction/camelinaction.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://isty@repo.talentbankonline.com/scm/tb/tb6.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\isty\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\isty\developer-workspace\tb6" />
   </component>
 </application>
